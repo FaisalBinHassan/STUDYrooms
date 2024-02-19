@@ -22,9 +22,8 @@ Explore STUDYrooms [here](https://studybuddev.herokuapp.com/).
 
 Thank you [Dennis Ivy](https://github.com/divanov11/) for the resource and tutorials
 
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
+![Screenshot 2024-02-19 at 3 16 58 PM](https://github.com/FaisalBinHassan/STUDYrooms/assets/83821827/c0f6a929-ee84-46f1-b754-af02c896f57d)
+![Screenshot 2024-02-19 at 3 17 08 PM](https://github.com/FaisalBinHassan/STUDYrooms/assets/83821827/124046a4-4fc9-4dd1-9d35-64e825e8eac9)
 
 
 
