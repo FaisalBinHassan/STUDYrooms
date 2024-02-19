@@ -1,78 +1,32 @@
-<div align="center">
+# STUDYrooms
+
+**STUDYrooms** is a Django-based application designed for creating virtual rooms where people can join to study together. Inspired by the functionality of Discord, it offers a space for real-time chat and collaboration among learners.
+
+## Features
+
+- **Room Creation:** Easily set up study rooms for different topics.
+- **Real-Time Chat:** Communicate instantly with study partners.
+- **Resource Sharing:** Share study materials within rooms.
+
+## Preview
+
+- **Feed Home:** ![Feed Home](URL-to-image)
+- **Room Conversation:** ![Room Conversation](URL-to-image)
+
+## Get Started
+
+Explore STUDYrooms [here](https://studybuddev.herokuapp.com/).
+
+
+## Contributing
+
+Thank you [Dennis Ivy](https://github.com/divanov11/) for the resource and tutorials
+
+<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
+<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
 <img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
 
-# StudyBuddy
-</div>
 
-### Cloning the repository
 
---> Clone the repository using the command below :
-```bash
-git clone https://github.com/divanov11/StudyBud.git
-
-```
-
---> Move into the directory where we have the project files : 
-```bash
-cd StudyBud
-
-```
-
---> Create a virtual environment :
-```bash
-# Let's install virtualenv first
-pip install virtualenv
-
-# Then we create our virtual environment
-virtualenv envname
-
-```
-
---> Activate the virtual environment :
-```bash
-envname\scripts\activate
-
-```
-
---> Install the requirements :
-```bash
-pip install -r requirements.txt
-
-```
-
-#
-
-### Running the App
-
---> To run the App, we use :
-```bash
-python manage.py runserver
-
-```
-
-> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
-
-#
-
-### App Preview :
-
-<table width="100%"> 
-<tr>
-<td width="50%">      
-&nbsp; 
-<br>
-<p align="center">
-  Feed Home
-</p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
-</td> 
-<td width="50%">
-<br>
-<p align="center">
-  Room Conversation Preview
-</p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
-</td>
-</table>
 
 
