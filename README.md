@@ -24,8 +24,7 @@ Get a glimpse of what STUDYrooms has to offer through these snapshots:
 
 ![Room Conversation Preview](https://github.com/FaisalBinHassan/STUDYrooms/assets/83821827/124046a4-4fc9-4dd1-9d35-64e825e8eac9)
 
-
-
+![Room Conversation Chat](https://github.com/FaisalBinHassan/STUDYrooms/assets/83821827/6e6e248a-839d-41f5-ae34-2a7b7908c438)
 
 
 
